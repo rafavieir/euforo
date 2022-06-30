@@ -7,5 +7,5 @@
 - 🌱 Estudante de Python e dart
 - 🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=euforo)
 
