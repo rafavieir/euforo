@@ -1,6 +1,7 @@
 ### Rafael Vieira
 
-- 🔭 Atualmente trabalho com suporte técnico de Nível 3 no ramo de hospedagens de sites compartilhadas windows e linux
+- 🔭 Atualmente trabalho com suporte técnico de Nível 3 com a infraestrutura servidores web compartilhados e 
+semi dedicados windows e linux.
 
 - 🌱 Estudante de .NET Python e dart 
 
