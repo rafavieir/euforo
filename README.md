@@ -1,17 +1,9 @@
 ### Rafael Vieira
 
-- 🔭 Atualmente trabalho com suporte técnico de Nível 3 com a infraestrutura servidores web compartilhados e 
-semi dedicados windows e linux.
-
-- 🌱 Estudante de .NET Python e dart 
+- 🌱 Estudando Ciencia de Dados
 
 - 🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas.
 
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
-
-
-
-### Estou aprendendo: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
