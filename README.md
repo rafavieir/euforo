@@ -1,9 +1,11 @@
 ### Rafael Vieira
 
-- 🌱 Estudando Ciencia de Dados
-
+Olá, eu sou o Rafael Vieira! 👋,
+   Tenho explorado o mundo da computação por cerca de 5 anos, e na programação dei meus primeiros passos com C.
+   Atualmente, estou mergulhando na Ciência de Dados 📊 como estudante na Univesp, 
+   focando principalmente em Python 🐍 e também me aventurando no aprendizado de Java ☕.
+   Além disso, tenho um carinho especial por DevOps e Linux 🐧, explorando maneiras de otimizar e automatizar processos
+   Adoro trabalhar com frontend e uso o Bootstrap para criar interfaces incríveis. 
+   No GitHub, você encontrará uma coleção de projetos que refletem minha paixão pela programação e minha busca por conhecimento tecnológico. 🚀
+   
 - 🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas.
-
-### Ferramentas e Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
