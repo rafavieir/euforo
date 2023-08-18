@@ -1,10 +1,16 @@
-Rafael Vieira
-
 Olá, eu sou o Rafael Vieira! 👋
 
-Tenho explorado o mundo da computação por cerca de 6 anos, e na programação dei meus primeiros passos com C. Atualmente, estou mergulhando na Ciência de Dados 📊 como estudante na Univesp, focando principalmente em Python 🐍 e também me aventurando no aprendizado de Java ☕. Além disso, tenho um carinho especial por DevOps e Linux 🐧, explorando maneiras de otimizar e automatizar processos.
-
-Adoro trabalhar com frontend e uso o Bootstrap para criar interfaces incríveis. No GitHub, você encontrará uma coleção de projetos que refletem minha paixão pela programação e minha busca por conhecimento tecnológico. 🚀
+Tenho explorado o mundo da computação por cerca de 6 anos, e na programação dei meus primeiros passos com C. <BR>
+Atualmente, estou mergulhando na Ciência de Dados 📊 como estudante na Univesp, focando principalmente em Python 🐍 <BR>
+e também me aventurando no aprendizado de Java ☕.
+<BR> Além disso, tenho um carinho especial por DevOps e Linux 🐧, explorando maneiras de otimizar e automatizar processos. <BR>
 
 🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas.
+
+## Objetivo
+Meu objetivo é me aprimorar como desenvolvedor, explorando projetos empolgantes e aprendendo continuamente para contribuir com a comunidade de tecnologia.
+
+## Entre em contato
+- Email: devrafaelvieira@gmail.com 📧 <br>
+- LinkedIn: [linkedin.com/in/rafaelvieira](https://www.linkedin.com/in/rafaelvieir/) 💼 <br>
 
