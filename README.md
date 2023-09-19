@@ -11,6 +11,5 @@ e também me aventurando no aprendizado de Java ☕.
 Meu objetivo é me aprimorar como desenvolvedor, explorando projetos empolgantes e aprendendo continuamente para contribuir com a comunidade de tecnologia.
 
 ## Entre em contato
-- Email: devrafaelvieira@gmail.com 📧 <br>
 - LinkedIn: [linkedin.com/in/rafaelvieira](https://www.linkedin.com/in/rafaelvieir/) 💼 <br>
 
