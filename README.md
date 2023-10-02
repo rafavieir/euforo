@@ -1,14 +1,10 @@
 Olá, eu sou o Rafael Vieira! 👋
 
-Tenho explorado o mundo da computação por cerca de 6 anos, e na programação dei meus primeiros passos com C. <BR>
-Atualmente, estou mergulhando na Ciência de Dados 📊 como estudante na Univesp, focando principalmente em Python 🐍 <BR>
-e também me aventurando no aprendizado de Java com o curso de backend #vainaweb ☕.
-em meus repositórios atuais, você encontra um pouco do que venho estudando, tem desde 
-automatizar processos em shell com scripts sh, até Rest API feita em flask.
--
+Tenho explorado o mundo da computação por cerca de 6 anos e comecei minha jornada na programação com C. <BR>
+Atualmente, estou imerso na Ciência de Dados 📊 como estudante na Univesp, concentrando-me principalmente em Python 🐍. <BR>
+Além disso, estou explorando o aprendizado de Java com o curso de backend #vainaweb ☕. Em meus repositórios atuais, você encontrará uma amostra do que venho estudando, que vai desde a automação de processos em shell com scripts sh até a criação de Rest APIs em Flask.
 
-_🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas._
+🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas. Estou também aberto a oportunidades de trabalho freelancer 😉.
 
-## Entre em contato
-- LinkedIn: [linkedin.com/in/rafaelvieira](https://www.linkedin.com/in/rafaelvieir/) 💼 <br>
-
+Entre em contato
+LinkedIn: linkedin.com/in/rafaelvieira 💼 <br>
