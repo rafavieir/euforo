@@ -7,4 +7,5 @@ Além disso, estou explorando o aprendizado de Java com o curso de backend #vain
 🤝 Apaixonado por desenvolver soluções lógicas e práticas para pessoas. Estou também aberto a oportunidades de trabalho freelancer 😉.
 
 Entre em contato
-LinkedIn: linkedin.com/in/rafaelvieira 💼 <br>
+- LinkedIn: [linkedin.com/in/rafaelvieira](https://www.linkedin.com/in/rafaelvieira/) 💼
+
