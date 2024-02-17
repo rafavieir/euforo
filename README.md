@@ -12,4 +12,4 @@ Cloud Operations ☁️ <BR>
 
 Entre em contato
 - LinkedIn: [linkedin.com/in/rafaelvieir](https://www.linkedin.com/in/rafaelvieir/) 💼
-- [Site](https://rafaelvieira.space/) 💼
+- Mais em: [rafaelvieira.space](https://rafaelvieira.space/) 💼
